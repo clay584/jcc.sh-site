@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About
+title: Me
 permalink: /about/
 nav_order: 1
 nav_exclude: false
+has_children: true
 ---
 
 I am a network/systems engineer and I am always looking for ways to improve myself in work and in life. Feel free to contact me here:
